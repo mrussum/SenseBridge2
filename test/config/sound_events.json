@@ -1,0 +1,26 @@
+{
+    "doorbell": {
+        "label": "Doorbell",
+        "priority": "high",
+        "haptic_pattern": "long_double",
+        "visual_pattern": "flash_bright"
+    },
+    "knock": {
+        "label": "Knock, knock",
+        "priority": "high",
+        "haptic_pattern": "short_triple",
+        "visual_pattern": "flash_medium"
+    },
+    "microwave_beep": {
+        "label": "Microwave",
+        "priority": "medium",
+        "haptic_pattern": "short_double",
+        "visual_pattern": "flash_low"
+    },
+    "alarm": {
+        "label": "Alarm",
+        "priority": "high",
+        "haptic_pattern": "continuous",
+        "visual_pattern": "flash_urgent"
+    }
+}

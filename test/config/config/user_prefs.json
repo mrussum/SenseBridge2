@@ -1,0 +1,24 @@
+{
+    "notifications": {
+        "haptic": true,
+        "visual": true,
+        "smart_home": false
+    },
+    "speech_to_text": {
+        "enabled": true,
+        "continuous_mode": true,
+        "display_timeout": 30
+    },
+    "sound_detection": {
+        "sensitivity": 0.7,
+        "min_confidence": 0.6,
+        "ambient_adjustment": true
+    },
+    "smart_home": {
+        "mqtt_broker": "",
+        "mqtt_port": 1883,
+        "mqtt_username": "",
+        "mqtt_password": "",
+        "light_topic": "senseBridge/lights"
+    }
+}

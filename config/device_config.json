@@ -1,0 +1,16 @@
+{
+    "audio": {
+        "sample_rate": 16000,
+        "chunk_size": 1024,
+        "channels": 1
+    },
+    "hardware": {
+        "haptic_pin": 18,
+        "led_pin": 23,
+        "button_pin": 24
+    },
+    "bluetooth": {
+        "device_name": "SenseBridge",
+        "wearable_mac": ""
+    }
+}
