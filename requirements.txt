@@ -1,0 +1,14 @@
+
+pyaudio==0.2.13
+numpy==1.24.3
+scipy==1.11.1
+tensorflow==2.12.0
+speechrecognition==3.10.0
+pyttsx3==2.90
+python-dotenv==1.0.0
+RPi.GPIO==0.7.1  # For Raspberry Pi GPIO
+pybluez==0.23    # For Bluetooth communication
+paho-mqtt==2.2.1 # For smart home integration
+pillow==9.5.0    # For image processing
+tk==0.1.0        # For GUI
+pytest==7.3.1    # For testing
